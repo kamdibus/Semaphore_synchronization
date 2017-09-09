@@ -4,4 +4,4 @@ Multi-thread operations on buffer. Synchronization for Consumer, Producer and tw
 
 ## Implementation
 
-Implementation uses Linux's POSIX Api.
+Implementation uses Linux's POSIX.
